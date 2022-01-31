@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Life Cycle of a Star"
+date: 2021-10-01T12:02:42+06:00
 draft: false
 
 # post thumb
@@ -11,158 +11,46 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "HTML & CSS"
+  - "Basic Astronomy"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Cosmos"
+  - "Astronomy"
+  - "Star"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Introduction
+
+Have you ever contemplated why stars exist? Or were they simply the consequences of the Big Bang? In this blog, I am going to discuss the life cycle of a star, tales of hundreds of billions of stars from their birth till their death.
 
 <hr>
 
-##### Emphasis
+## About
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+### Early Universe
+Around 14 billion years ago, it is assumed that Big Bang took place. As a result of which the matter that was once condensed, spread out due to a blast, which we know as the starting point of the Universe. Moreover, our Universe is still expanding continuously. When the blast had taken place the matter in our Universe was in a very high-energy unstable state and the overall temperature of the Universe was very high at that moment. As time passed by, the matter cooled down and started to ionize to form dust clouds. Such cosmic dust particles mainly consisted of protons and electrons at the very beginning. Afterward, protons and electrons combined to form Hydrogen (deuterium) atoms with relative ease, and so did the other elements. Still, Hydrogen is very abundant in the Universe since it only consisted of an electron and a proton moreover, it was the first element known to have come into existence, according to our observations of the Universe.
 
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+### Life Cycle
+Around 14 billion years ago, it is assumed that Big Bang took place. As a result of which the matter that was once condensed, spread out due to a blast, which we know as the starting point of the Universe. Moreover, our Universe is still expanding continuously. When the blast had taken place the matter in our Universe was in a very high-energy unstable state and the overall temperature of the Universe was very high at that moment. As time passed by, the matter cooled down and started to ionize to form dust clouds. Such cosmic dust particles mainly consisted of protons and electrons at the very beginning. Afterward, protons and electrons combined to form Hydrogen (deuterium) atoms with relative ease, and so did the other elements. Still, Hydrogen is very abundant in the Universe since it only consisted of an electron and a proton moreover, it was the first element known to have come into existence, according to our observations of the Universe.
 
 <hr>
 
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
+### First Path
+Around 14 billion years ago, it is assumed that Big Bang took place. As a result of which the matter that was once condensed, spread out due to a blast, which we know as the starting point of the Universe. Moreover, our Universe is still expanding continuously. When the blast had taken place the matter in our Universe was in a very high-energy unstable state and the overall temperature of the Universe was very high at that moment. As time passed by, the matter cooled down and started to ionize to form dust clouds. Such cosmic dust particles mainly consisted of protons and electrons at the very beginning. Afterward, protons and electrons combined to form Hydrogen (deuterium) atoms with relative ease, and so did the other elements. Still, Hydrogen is very abundant in the Universe since it only consisted of an electron and a proton moreover, it was the first element known to have come into existence, according to our observations of the Universe.
 
 <hr>
 
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+### Second Path
+Around 14 billion years ago, it is assumed that Big Bang took place. As a result of which the matter that was once condensed, spread out due to a blast, which we know as the starting point of the Universe. Moreover, our Universe is still expanding continuously. When the blast had taken place the matter in our Universe was in a very high-energy unstable state and the overall temperature of the Universe was very high at that moment. As time passed by, the matter cooled down and started to ionize to form dust clouds. Such cosmic dust particles mainly consisted of protons and electrons at the very beginning. Afterward, protons and electrons combined to form Hydrogen (deuterium) atoms with relative ease, and so did the other elements. Still, Hydrogen is very abundant in the Universe since it only consisted of an electron and a proton moreover, it was the first element known to have come into existence, according to our observations of the Universe.
 
 <hr>
 
-##### Blockquote
+## Conclusion
 
-> This is a blockquote example.
+***"The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of star-stuff." - Carl Sagan (renowned American Astronomer)***
 
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+It is really stimulating to know that humans are a product of star ash. Every time it amazes me to know how vast the Universe is and how little humans know about the truth of this Universe. This feeling motivates most Astronomers and Astrophysicists to keep trying and unfold the mysteries of our Universe.

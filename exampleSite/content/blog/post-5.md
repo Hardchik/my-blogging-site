@@ -1,166 +1,59 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Game Theory & Artificial Intelligence"
+date: 2021-10-19T06:07:57+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-2.jpg"
+image: "images/post/post-5.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Artificial Intelligence"
 tags:
-  - "Photos"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Game Theory"
+  - "AI"
+  - "Computational Analysis"
+  - "Algorithms"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Introduction
+
+Have you ever wondered what if we can calculate the outcome of events that are going to take place shortly, or whether we are going to lose or win in a game that we haven’t played yet? Well, you just need to google ’Game Theory’ and you will get the answers to such questions since it is a branch of mathematics that is used to model the strategic reciprocity among competing players considering the predefined rules and outcomes. However, humans are not capable of high-speed calculations and predictions, and this is where the need for Artificial Intelligence arises. It works or should I say thinks, just like a normal human brain but faster. This blog will talk about Game Theory and Artificial Intelligence.
 
 <hr>
 
-##### Emphasis
+## Game Theory
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+Wikipedia says "Game Theory is the study of mathematical models of strategic interaction among rational decision-makers". It is an emerging field that was often used by gamblers to increase their chances of winning. One can say this field is derived from gambling. According to me, Game Theory is predicting future events by calculating the degree of possibility of that particular event to take place surrounding the current situation. Moreover, in my personal opinion, people shouldn't feel anxiety from a person who has great strength instead of on should always stay alert in the vicinity of a person proficient in real-life Game Theory applications, for instance, one can co-relate to Lord Krishna, the master of Game Theory, and one can read about his life experiences from Mahabharata, a famous Hindi Literature. Another example can be found in the anime 'Death Note'. The mind games between Detective L (a.k.a L Lawliet) and Light Yagami is again a perfect example of how Game Theory can be inactuated in real life. We will talk in more detail about other Game Theory examples in the upcoming blogs.
 
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+## Artificial Intelligence
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Artificial Intelligence is intelligence illustrated by machines that are similar to animals including humans. We came up with the concept of AI---in order to make machines perform the same tasks as humans since we can make a machine work for as long as we require with a high success rate in comparison to human beings. And AI has only made life easier for humans. With advancements in technology, AI is evolving at a very faster rate.
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+In this age of advanced technological advancements, artificial intelligence is a tool that has become a necessity for modern-day industries and services. Almost all businesses are using AI since it reduces human efforts and produces more accurate results in due time. Moreover, the purpose of using AI across all domains is to produce better output and improve security levels. People are using home automation which is efficient, secure and the control of your house is at your fingertips. Another benefit of such systems is that they are very secure, as not everyone is adept with AI and automation systems and how they work, which makes it very difficult for a third party to interfere.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+Looking at it from a bigger perspective people nowadays prefer to believe in AI in comparison to an individual as they are your personal never betraying assistants.
 
 <hr>
 
-##### Paragraph
+##  Interconnection b/w GT and AI
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+Game Theory is a relatively new field and works on various algorithms. Some researchers are still researching and working and studying new Game Theory algorithms and how we can incorporate Game Theory in new technologies specifically using AI as we all are aware of its advantages. Most algorithms are specific to certain tasks, an example of which is provided below. It is assumed that Quantum Computers are capable of predicting incidents going to occur in the near future accurately, thus making them sole candidates for Game Theory to be researched upon.
 
-<hr>
+Also, Game Theory is vital for multi-agent AI programs where they need to compete amongst themselves to accomplish a goal. Other use of Game Theory can be reviewed through AI interactions in modern systems where Nash Equilibrium plays an important role.
 
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+A simple example of Game Theory in AI can be explained via an unbeatable Tic-Tac-Toe game against an AI. It uses the Min-Max algorithm. Link to that code is given and understanding the algorithm via code is much easier.
 
 <hr>
 
-##### Blockquote
+## Conclusion
 
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Game Theory is nothing but calculating probabilities and its implementation can be achieved easily using AI. It's a new field and researchers can study it, maybe it can ripe some surprising results. Moreover, Game Theory provides an extra edge for scholars to study AI from a different perspective. Perhaps, using Game Theory algorithms to train AI models be a perfect idea to unite GT and AI; this can be a topic on which one can carry out research.

@@ -1,167 +1,60 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Dark Matter & Dark Energy"
+date: 2021-10-11T11:12:07+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-1.jpg"
+image: "images/post/post-4.jpeg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Astronomy & Astrophysics"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Cosmos"
+  - "Astronomy"
+  - "Astrophysics"
 
 # post type
 type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Introduction
+
+Have you ever wondered why visible matter makes up only 5% of the universe? This leads to only one question, what is the rest of 95% material/thing in the universe which is not visible to us. This blog will present you with various thought-provoking ideas regarding Dark Matter & Dark Energy.
 
 <hr>
 
-##### Emphasis
+## About
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+### Evidence
+Deduction in the field of Astronomy has always led to great discoveries in the past and the same is true in the case of Dark Matter. So what do I mean by deductions in the past? It's simple, before the discovery of the planet Neptune astronomers were able to deduce that there exists a planet beyond Uranus due to the perturbing effect on the motion of planet Uranus due to Neptune's gravitational force. Another example of deduction can be applied to a black hole. Imagine a planet is revolving around a massive star, later on, the star shrinks under its own gravitational influence and gets embellished into a black hole. But the planet is still revolving around its orbit, this time it's different as we cannot spot the star since it has turned into a black hole. This is how we can detect the presence of a black hole in this vast Universe.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+![image](../../images/post/post-4a.jpg)
+*The image depicting rotational curve of Milky Way*
 
-Combined emphasis with **asterisks and _underscores_**.
+Now we are going to study the shreds of evidence from where we can deduce that there is a substance that is not like our usual visible matter. We know our Milky Way Galaxy is classified under a spiral type galaxy. Our galaxy is surrounded by Hydrogen gas and cosmic dust clouds in the outer layer. Moreover, we know that orbital velocity is a parabolic function over distance from the center of gravity. However, researchers observed that the velocity, instead of decreasing after some time it starts to become constant. this is only possible when the mass of the galaxy extends to the whole of the galaxy unlike earlier when we used to think the whole mass of a galaxy is within the inner radius where matter is visible. But after the observation of orbital velocity, we can deduce that mass is spread throughout the whole galaxy and that mass is invisible. After seeing the image of the galaxy one can see that most of the galaxy is empty as we cannot see the matter that is covering those empty spaces. Thus, this leads to the possibility for the presence of this invisible matter in the empty spaces of our Universe. This invisible matter covering most of the space in the Universe is termed as Dark Matter by Fritz Zwicky in 1933.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+![image](../../images/post/post-4b.jpg)
+*The image depicts side view of a galaxy (vast empty space can be observed)*
 
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+Another evidence can be found in the example of the Coma cluster. It is a cluster of nearly a thousand galaxies. Researchers observed that the energy of motion of all of the galaxies seems to greatly exceed their gravitational energy and this can only be possible if the mass of the cluster as a whole is much greater than what is visible. One can deduce the presence of Dark Matter in the Coma cluster.
 
 <hr>
 
-##### Paragraph
+### What is Dark Matter & Dark Energy?
+Dark Matter is often known as unseen matter in space. The next question that arises is what is dark matter made up of? The answers to these questions which researchers found were all contradictory, thus they came up with the theory that the bulk of the Dark Matter that is found in and out of clusters is non-baryonic (not composed of baryons). This is an assumption made to fulfill the requirements of the big bang since the existence of baryonic matter would obstruct it. The dark matter is thus named, Non-baryonic dark matter (NBDM) and there is another name for this - weakly interacting massive particle (WIMP). However, NBDM is still not detected by any astronomical instrument.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+Dark Energy is an unknown form of energy that helps in the expansion process of the Universe i.e it never lets the expansion rate of the Universe drop down. From the description, we can conclude that its property is the opposite of gravitational energy. Besides, the dark energy is the result of the phase transition during the Big Bang i.e. it is caused by the inherent energy of the Universe. However, our Universe is composed of the baryonic matter or the visible mass-energy in the Universe, the dark matter, and the dark energy. The cosmologists give approximate values that the matter and energy which is visible to astronomers occupy 5% of all the matter and energy the Universe contains. Although, the contribution of dark matter to this is just 27%, and 68% of the universe is covered in dark energy.
 
 <hr>
 
-##### Blockquote
+## Conclusion
 
-> This is a blockquote example.
+Dark matter and dark energy are still mysteries to researchers since we lack the technology and resources to directly study them. Maybe in the future, we can gather resources to fully understand them. Nonetheless, we can observe their behavior/effects and we can theoretically work on them just like Albert Einstein calculated the existence of a Black Hole and after 100 years we were able to practically confirm their existence.
 
-<hr>
+## References
 
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Facts and speculations in Cosmology (Cambridge University Press), by JayantV. Narlikar and Geoffrey Burbidge

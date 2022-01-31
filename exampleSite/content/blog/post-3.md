@@ -1,168 +1,87 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Combinatorics and Probability or Just Intuition? The Birthday Problem"
+date: 2021-10-07T06:06:33+06:00
 draft: false
 
 # post thumb
-image: "images/featured-post/post-3.jpg"
+image: "images/featured-post/post-3.png"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Web Design"
+  - "Mathematics"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Combinatorics"
+  - "Probability"
+  - "Mathematics"
+  - "Analysis"
 
 # post type
 type: "featured"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Introduction
+
+Could you answer this by just using your intuition? The problem is to compute an approximate probability that in a classroom of n students or let’s say in your class at least two students have the same birthday. What answer is your intuition suggesting? Feel free to comment below and compare them with the actual results. 
+
+*Let’s begin the mathematical analysis of this problem.*
 
 <hr>
 
-##### Emphasis
+## Do we need Assumptions?
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+Let’s assume that all 365 possible birthdays are equally likely. Ignored the leap years for simplicity, but the answer would be the same for leap years too. Also, we all know that real-life birthday distributions are not uniform, since not all dates are equally likely, these irregularities have little effect on the analysis. Actually, the uniform distribution of birth dates would be the worst case. 
 
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+## Mathematical Analysis
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+The goal is to compute P(A), the probability that at least two students in the classroom have the same birthday. However, it is simpler to calculate P(A′), the probability that no two students in the classroom have the same birthday. Then, because A and A′ are the only two possibilities and are also mutually exclusive, therefore P(A) = 1 − P(A′). For this analysis let’s take the classroom strength to be 60 and then the process can be generalized for n students.
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Let us number the 60 students from 1 to 60. The event that all 60 students have different birthdays is the same as the event that student 2 does not have the same birthday as student 1, and that student 3 does not have the same birthday as either student 1 or student 2, and so on, and finally that student 60 does not have the same birthday as any of students 1 through 59. Let these events respectively be called "Event 2", "Event 3", and so on. Now we need to add an "Event 1", corresponding to the event of student 1 having a birthday, which occurs with probability 1. 
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+This conjunction of events may be computed using conditional probability. The probability of Event 2 is 364/365, as student 2 may have any birthday other than the birthday of student 1. Similarly, the probability of Event 3 given that Event 2 occurred is 363/365, as student 3 may have any of the birthdays not already taken by students 1 and 2. This continues until finally the probability of Event 60 given that all preceding events occurred is 306/365. Finally, the principle of conditional probability implies that P(A′) is equal to the product of these individual probabilities:
 
-[You can use numbers for reference-style link definitions][1]
+P(A′) = 365365 ✖364365 ✖363365 ..... ✖307365 ✖306365
 
-Or leave it empty and use the [link text itself].
+P(A′) = (1365)60 ✖ 365 ✖ 364 ✖ 363 ...... ✖ 307 ✖ 306    
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+P(A’) will come out to be approximately equal to 0.006. 
 
-Some text to show that the reference links can follow later.
+Therefore, P(A) = 1 − 0.006 = 0.994 i.e. 99.4%.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+This process can be generalized for n students or n people in a group. 
 
-<hr>
+Let p(n) be the probability of at least two of the n people sharing a birthday.
 
-##### Paragraph
+![image](../../images/post/post-3a.png)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+The following graph shows the different probabilities for different values of n.
+
+![image](../../images/post/post-3b.png)
 
 <hr>
 
-##### Ordered List
+## Conclusion
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+Almost 100% chance and to be exact 99.4% chance that at least two of your classmates can have the same birthday if the classroom strength is 60. Similarly, in a classroom of 23 students, the probability of a shared birthday exceeds 50%, while a classroom of 70 has a 99.9% chance of a shared birthday. Since there are only 366 possible birthdays, including February 29, and the number of students reaches 367, then the probability reaches 100%.
 
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
+The birthday problem is just one example where math can show that things that seem impossible, like the same person winning the lottery twice, actually aren't unlikely at all. Sometimes coincidences aren’t as coincidental as they seem.
 
 <hr>
 
-##### Code and Syntax Highlighting
+## Real World Application
 
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+Real-world applications for the birthday problem includes a cryptographic attack called the birthday attack, which uses this probabilistic model to reduce the complexity of finding a collision for a hash function, as well as calculating the approximate risk of a hash collision existing within the hashes of a given size of the population. Additional information regarding this is provided in the external links.
 
 <hr>
 
-##### Blockquote
+## References
 
-> This is a blockquote example.
+You can refer to the below-listed sources for more details:
 
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Link: <https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/birthday-probability-problem>
+Link: <https://ed.ted.com/lessons/check-your-intuition-the-birthday-problem-david-knuffke#watch>
+Link: <https://en.wikipedia.org/wiki/Birthday_problem>

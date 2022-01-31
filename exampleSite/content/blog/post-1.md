@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Ancient Cosmic Makeover"
+date: 2021-09-21T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -11,157 +11,51 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Astronomy & Astrophysics"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Cosmos"
+  - "Astronomy"
+  - "Astrophysics"
+  - "Particle Physics"
 
 # post type
 type: "featured"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Introduction
+
+We often look into the night sky and see that we are sheltered by thousands of dots of light. These dots of light are what we call stars. Stars, as we all know, are luminous giant hot balls of burning gases in free space and radiate heat and light energy in huge amounts. Our sun is also a star and because of it, the Earth is capable of sustaining life. The stars make up most of the visible universe. Have you ever thought of the reason behind the existence of stars and cosmos or whether they were created by someone? The following blog will provide you with some fascinating information on the same topic.
 
 <hr>
 
-##### Emphasis
+## About
+In the early stages when the universe was nothing but scattered plasma particles, made up of electrons, protons, nuclei, light, etc., it was expanding strenuously and yet to cool down. Furthermore, Atoms hadn’t come into existence, it was in an ionized state.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+After years of expanding and cooling down, electrons and protons combined to form atoms and more than 90% of the yield consisted of Hydrogen atoms. It took another thousand years for the birth of the first stars and galaxies from hydrogen gas.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Hydrogen atoms eagerly absorb and quickly re-emit far-UV light or Lyman alpha(Ly−α) emission line (λ ≅ 121.6 nm). Some of the light produced by the first stars matched this wavelength. Because the Ly−α emission line easily interacted with hydrogen atoms, it couldn’t travel far before the gas scattered it in random directions. This led to ionization of the surrounding hydrogen gas from intense Ly-α emission lines from various galaxies across the universe forming bubbles. Eventually, bubbles like these grew around all galaxies and filled intergalactic space, as a result, re-ionizing the universe.
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+This is one way to study the existence of the Universe but taking into account the farthest galaxy group EGS77 (Extended Groth Strip) identified recently, consists of three galaxies. EGS77 is a quintessential example that has shown the same phenomenon of Ancient Cosmic Makeover popularly known as reionization.
 
 <hr>
 
-##### Paragraph
+## My Point of View
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
+I believe this theory is one way to know the existence of Cosmos as we see it now. I can relate this theory to the concept- 'Coagulation of Particles in a solution, which was taught to us in Chemistry classes. The way ionizing matter combines and form bubbles in space is also a very practical approach to studying the makeover act. Moreover, this theory supports the Big Bang theory and we get a clear and big picture about our Universe. However, while studying coagulation we studied the formation of precipitate with respect to the medium. But knowing the existence of Dark Matter and Dark Energy in our Universe, can we really conclude re-ionization to be the actual reason behind the formation of Cosmos, as we still lack information about them?
 
 <hr>
 
-##### Code and Syntax Highlighting
+## Conclusion
 
-Inline `code` has `back-ticks around` it.
+***'Imagination often carries us to worlds that never were. But without it, we go nowhere.' - Carl Sagan (renowned American Astronomer)***
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
+Like what Carl Sagan said, This is one theory to study the birth and the reasons behind the existence of stars and the visible universe. Using our creativity and Imagination, we think and work upon our theory, then search for clues either theoretically or practically, then only we would be able to uncover various other unsolved mysteries.
 
 <hr>
 
-##### Blockquote
+## References
 
-> This is a blockquote example.
+You can refer to the below-listed papers for more details:
 
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Link: <https://www.nature.com/articles/s41467-019-11595-x.pdf>
+Link: <https://iopscience.iop.org/article/10.3847/2041-8213/ab75ec>
