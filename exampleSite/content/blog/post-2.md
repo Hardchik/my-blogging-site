@@ -15,7 +15,7 @@ categories:
 tags:
   - "Cosmos"
   - "Astronomy"
-  - "Star"
+  - "Stars"
 
 # post type
 type: "post"

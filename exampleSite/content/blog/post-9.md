@@ -13,15 +13,16 @@ description: "this is meta description"
 categories: 
   - "Python"
 tags:
-  - "Photos"
-  - "Game"
   - "HTML"
-  - "Python"
-  - "New"
+  - "Markup Language"
 
 # post type
 type: "post"
 ---
+
+***This is a sample blog created usig various tools used in the Markup Language.***
+
+<hr>
 
 # Heading 1
 ## Heading 2

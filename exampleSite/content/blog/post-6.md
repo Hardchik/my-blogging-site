@@ -45,13 +45,15 @@ The tabular data given below gives the classification of stars based upon their 
 | A             | Blue white    |  7500-10000 |
 | O and B       | Blue          | 10000-40000 |
 
+*The Temperature values are in (°C)*
+
 One can find millions of stars of different brightness in the dark blanket surrounding us. Common folks often have a misconception regarding the brightness of a star when they observe it from the Earth. The brightness of a star depends on the distance it is away from the Earth and also it's surface temperature. Some stars are brighter but they are far away from the Earth thus appear fainter whereas some stars are fainter in reality they are very close to Earth hence appear brighter. We use the term 'magnitude' to define the brightness of a star. We will look into three types of magnitudes - Apparent magnitude, Absolute magnitude, and Bolometric magnitude. They are defined as follows:
 
 * **Apparent magnitude** is the luminosity of a star as observed from Earth.
 * **Absolute magnitude** is equal to the apparent magnitude of a celestial body if it were located at a distance of 10 parsecs.
 * **Bolometric magnitude** is the luminosity of a star based on the total radiation it emits across all wavelengths.
 
-It is a thought-provoking matter that how can humans study stars which are hundreds of light-years away (Light years - distance traveled by light in a year; 1 light-year = $9.46\cdot10^{15}$). Astronomers don't study stars physically instead they try to analyze the different types of radiations which they are receiving from distant stars. We can study various characteristics such as redshifts, luminosities, and various different types of waves emitted because of the different types of reactions taking place in a star. Researchers have worked upon and derived mathematical relations to calculate distance, mass, velocity, etc. of any celestial body just by studying the electromagnetic waves received from the stars.
+It is a thought-provoking matter that how can humans study stars which are hundreds of light-years away (Light years - distance traveled by light in a year; 1 light-year = 9.46 x 10^15). Astronomers don't study stars physically instead they try to analyze the different types of radiations which they are receiving from distant stars. We can study various characteristics such as redshifts, luminosities, and various different types of waves emitted because of the different types of reactions taking place in a star. Researchers have worked upon and derived mathematical relations to calculate distance, mass, velocity, etc. of any celestial body just by studying the electromagnetic waves received from the stars.
 
 <hr>
 
