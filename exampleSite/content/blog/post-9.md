@@ -4,7 +4,7 @@ date: 2021-09-15T10:09:27+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-6.jpg"
+image: "images/post/post-9.png"
 
 # meta description
 description: "this is meta description"
@@ -158,7 +158,7 @@ Markdown | Less | Pretty
 
 ##### Image
 
-![image](../../images/post/post-1.jpg)
+![image](../../images/post/post-9.png)
 
 <hr>
 
