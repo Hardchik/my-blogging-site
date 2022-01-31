@@ -9,9 +9,9 @@ image: "images/post/post-9.png"
 # meta description
 description: "this is meta description"
 
-# taxonomies
-categories: 
-  - "Python"
+# # taxonomies
+# categories: 
+#   - ""
 tags:
   - "HTML"
   - "Markup Language"
